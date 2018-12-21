@@ -34,3 +34,4 @@ plot(cal_housing_df$medianHouseValue, cal_housing_df$population,
      xlab="HouseValue", ylab="population")
 plot(cal_housing_df$medianHouseValue, cal_housing_df$households, 
      xlab="HouseValue", ylab="households")
+ 
