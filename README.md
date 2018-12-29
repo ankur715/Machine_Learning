@@ -4,7 +4,7 @@
 
 Projects:  
 * Linear Regression: predicting California house values 
-* Classification: linear models 
+* Classification: Forest cover type 
 * Clustering: cluster evaluation  
 * NLP: text data  
 * NN: CNN image recognition
