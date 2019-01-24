@@ -5,6 +5,6 @@
 Projects:  
 * Linear Regression: predicting California house values 
 * Classification: Forest cover type 
-* Clustering: cluster evaluation  
-* NLP: text data  
+* Clustering: Thyroid disease  
+* NLP: Text data  
 * NN: CNN image recognition
