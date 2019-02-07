@@ -7,4 +7,4 @@ Projects:
 * Classification: Forest cover type 
 * Clustering: Thyroid disease  
 * NLP: Text data  
-* NN: CNN image recognition
+* NN: Iris data
