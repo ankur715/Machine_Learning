@@ -8,4 +8,5 @@ Projects:
 * Classification: Forest cover type 
 * Clustering: Thyroid disease  
 * NLP: Text data  
-* NN: Iris data
+
+** NN: separate repo
