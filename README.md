@@ -5,6 +5,7 @@
 Projects:  
 * Linear Regression: predicting California house values 
 * Logistic Regressionm Decision Tree: Online shopping intension
+* ARIMA: Shampoo, AirPassengers
 * Classification: Forest cover type 
 * Clustering: Thyroid disease  
 * NLP: Text data  
