@@ -9,5 +9,5 @@ Projects:
 * Classification: Forest Cover Type 
 * Clustering: Thyroid Disease  
 * NLP: Text Data  
-* RNN: Google Stock Price Predict
+* RNN: Google Stock Price
 * *NN: separate repo*
