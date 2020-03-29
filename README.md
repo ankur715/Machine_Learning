@@ -9,4 +9,4 @@ Projects:
 * Classification: Forest Cover Type 
 * Clustering: Thyroid Disease  
 * NLP: Text Data  
-* *NN: separate repo*
+* [*NN: separate repo*](https://github.com/ankur715/Neural_Networks)
